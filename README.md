@@ -1,4 +1,4 @@
-### Olá, eu sou a Vitória Morais👋
+## Olá, eu sou a Vitória Morais👋
 
 - 🎓 No momento, estou cursando Análise e Desenvolvimento de Sistemas.
 - 💻 Estou aprendendo linhagem Java, HTML e CSS.
@@ -27,4 +27,4 @@
   <a href="https://www.linkedin.com/in/vit%C3%B3ria-morais-rodrigues-moreira-11a468234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
   
-  ![Snake animation](https://github.com/rafaballerini/VitoriaMoraisRM/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/VitoriaMoraisRM/VitoriaMoraisRM/blob/output/github-contribution-grid-snake.svg)
