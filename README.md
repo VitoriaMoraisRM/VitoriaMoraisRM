@@ -4,7 +4,7 @@
 - 💻 Estou aprendendo linhagem Java, HTML e CSS.
 - 📫 Como chegar até mim: vitoriamoraisrodriguesm@gmail.com.
 - 😄 Pronomes: Ela/Dela.
-- 🙈 Fato divertido: Estudando para me tornar uma garota de programa.
+- 🙈 Fato divertido: Futura garota de programa.
 
 <div align="center">
   <a href="https://github.com/VitoriaMoraisRM">
