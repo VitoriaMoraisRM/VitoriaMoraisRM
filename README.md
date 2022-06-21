@@ -1,4 +1,4 @@
-## Olá, eu sou a Vitória Morais👋
+## Olá!! Eu sou a Vitória Morais👋
 
 - 🎓 No momento, estou cursando Análise e Desenvolvimento de Sistemas.
 - 💻 Estou aprendendo linhagem Java, HTML e CSS.
