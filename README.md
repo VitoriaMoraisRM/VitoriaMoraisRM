@@ -1,7 +1,7 @@
 ## Olá!! Eu sou a Vitória Morais👋
 
 - 🎓 No momento, estou cursando Análise e Desenvolvimento de Sistemas.
-- 💻 Estou aprendendo linhagem Java, HTML e CSS.
+- 💻 Estou aprendendo linguagem Java, HTML e CSS.
 - 📫 Como chegar até mim: vitoriamoraisrodriguesm@gmail.com.
 - 😄 Pronomes: Ela/Dela.
 - 🙈 Fato divertido: Futura garota de programa.
