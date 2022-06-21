@@ -6,10 +6,10 @@
 - 😄 Pronomes: Ela/Dela.
 - 🙈 Fato divertido: Futura garota de programa.
 
-<div align="center">
+ <div>
   <a href="https://github.com/VitoriaMoraisRM">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitoriaMoraisRM&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&icon_color=White"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitoriaMoraisRM&layout=compact&langs_count=7&theme=synthwave"/>
-  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitoriaMoraisRM&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitoriaMoraisRM&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
   
   <div style="display: inline_block"><br>
