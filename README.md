@@ -15,6 +15,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="SQL" height="30" width="40" src="https://benjaminrichir.fr/img/skills/language/sql.png">
+  <img align="center" alt="Robot" height="30" width="40" src="https://avatars3.githubusercontent.com/u/574284?s=280&v=4">
   <img align="right" alt="Viih" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/ab/42/85/ab428556d9a538a72723886b6fa0a23d.jpg">
    
 </div>
