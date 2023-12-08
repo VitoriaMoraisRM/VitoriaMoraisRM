@@ -1,7 +1,7 @@
 ## Olá!! Eu sou a Vitória Morais👋
 
 - 🎓 No momento, estou cursando Análise e Desenvolvimento de Sistemas.
-- 💻 Quality Analyst.
+- 💻 Quality Assurance Analyst - QA
 - 📫 Como chegar até mim: vitoriamoraisrodriguesm@gmail.com.
 - 😄 Pronomes: Ela/Dela.
  
