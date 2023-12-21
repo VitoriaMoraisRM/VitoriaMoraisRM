@@ -2,6 +2,7 @@
 
 - 🎓 No momento, estou cursando Análise e Desenvolvimento de Sistemas.
 - 💻 Quality Assurance Analyst - QA
+- 📚 No momento, estou ampliando meus conhecimentos estudando testes automatizados para Mobile e IOS.
 - 📫 Como chegar até mim: vitoriamoraisrodriguesm@gmail.com.
 - 😄 Pronomes: Ela/Dela.
  
