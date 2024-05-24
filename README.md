@@ -1,4 +1,4 @@
-<img style="border= 1px; border-radius= 50%" align="right" height="200" src="https://img.freepik.com/premium-photo/girl-with-laptop-working-digital_1028654-13933.jpg?w=740">
+<img style="border= 1px; border-radius= 50%" align="right" height="250" src="https://github.com/VitoriaMoraisRM/VitoriaMoraisRM/assets/84153149/8472fa5d-4eb9-4900-8389-788721d6f445">
 
 ### Olá!! Eu sou a Vitória Morais👋
 
