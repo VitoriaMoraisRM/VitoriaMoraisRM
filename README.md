@@ -6,7 +6,6 @@
 - 💻 Quality Assurance Analyst - QA
 - 📚 No momento estou estudando Cypress.
 - 📫 Como chegar até mim: vitoriamoraisrodriguesm@gmail.com.
-- 😄 Pronomes: Ela/Dela.
 
 <table>
 <tr>
