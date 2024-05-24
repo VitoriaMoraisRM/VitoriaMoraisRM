@@ -3,7 +3,7 @@
 ### Olá!! Eu sou a Vitória Morais👋
 
 - 🎓 No momento, estou cursando Análise e Desenvolvimento de Sistemas.
-- 💻 Quality Assurance Analyst - QA
+- 💻 Quality Assurance Analyst - QA.
 - 📚 No momento estou estudando Cypress.
 - 📫 Como chegar até mim: vitoriamoraisrodriguesm@gmail.com.
 
