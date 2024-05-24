@@ -1,4 +1,4 @@
-<img style="border-radius:100%" align="right" height="200" src="https://img.freepik.com/premium-photo/girl-with-laptop-working-digital_1028654-13933.jpg?w=740">
+<img border-radius=100% align="right" height="200" src="https://img.freepik.com/premium-photo/girl-with-laptop-working-digital_1028654-13933.jpg?w=740">
 
 
 ### Olá!! Eu sou a Vitória Morais👋
