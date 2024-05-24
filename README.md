@@ -1,4 +1,4 @@
-<img style="border= 1px; border-radius= 50%" align="right" height="250" src="https://github.com/VitoriaMoraisRM/VitoriaMoraisRM/assets/84153149/8472fa5d-4eb9-4900-8389-788721d6f445">
+<img style="border= 1px; border-radius= 50%" align="right" height="225" src="https://github.com/VitoriaMoraisRM/VitoriaMoraisRM/assets/84153149/8472fa5d-4eb9-4900-8389-788721d6f445">
 
 ### Olá!! Eu sou a Vitória Morais👋
 
