@@ -7,44 +7,6 @@
 - 📚 No momento estou estudando Cypress.
 - 📫 Como chegar até mim: vitoriamoraisrodriguesm@gmail.com.
 
-<table>
-<tr>
-<td>
-
-### Hard Skills
-
-- Testes manuais
-- Testes automatizados
-- Testes de regressão
-- Testes exploratórios
-- Testes de stress
-- Testes E2E
-- Testes de API (Postman, Insomnia e automatizado)
-- Metodologia ágil Scrum
-- Criação de Bug Report
-- Documentação de casos de teste (Testlink)
-- Jira e Trello
-- Git e Github
-- Robot framework
-- Bibliotecas Selenium e Appium
-
-</td>
-<td>
-
-### Soft Skills
-
-- Comunicação
-- Colaboradora
-- Empática
-- Trabalho em equipe
-- Detalhista
-- Motivadora
-- Amigável
-
-</td>
-</tr>
-</table>
-
 ### Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=fuchsia&color=FFF)](https://www.linkedin.com/in/vitoriamoraisrm/)
