@@ -4,7 +4,6 @@
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas.
 - 💻 Quality Assurance Analyst - QA.
-- 📚 No momento estou estudando Cypress.
 - 📫 Como chegar até mim: vitoriamoraisrodriguesm@gmail.com.
 
 ### Connect with me
