@@ -2,14 +2,14 @@
 
 ### Olá!! Eu sou a Vitória Morais👋
 
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas.
+- 🎓 Formada em Análise e Desenvolvimento de Sistemas.
+- 👩‍🎓 Pós graduando em Gerenciamento de Projetos na FGV.
 - 💻 Quality Assurance Analyst - QA.
 - 📫 Como chegar até mim: vitoriamoraisrodriguesm@gmail.com.
 
 ### Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=fuchsia&color=FFF)](https://www.linkedin.com/in/vitoriamoraisrm/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=fuchsia&color=FFF)](https://www.instagram.com/vitoriamorais.qa/)
 
 ##
 
