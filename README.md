@@ -3,7 +3,7 @@
 ### Olá!! Eu sou a Vitória Morais👋
 
 - 🎓 Formada em Análise e Desenvolvimento de Sistemas.
-- 👩‍🎓 Cursando MBA de Gerenciamento de Projetos na FGV.
+- 👩‍🎓 Cursando MBA Gerenciamento de Projetos na FGV.
 - 💻 Quality Assurance Analyst - QA.
 - 📫 Como chegar até mim: vitoriamoraisrodriguesm@gmail.com.
 
