@@ -14,9 +14,7 @@
 ##
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Robot" height="35" src="https://cdn.3dsupply.de/media/cache/b3/b1/b3b116e1294ecb86fd85b1fdad309d82.jpg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="SQL" height="30" width="35" src="https://benjaminrichir.fr/img/skills/language/sql.png">
+  <img align="center" alt="Robot" height="35" src="https://media.licdn.com/dms/image/v2/C4E12AQGYsTZ9MT86qg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1600064945770?e=1772668800&v=beta&t=04TKmPl1fvHwtV56NDeriBOo_WDCpTeWpb2fnCellyg">
+  <img align="center" alt="Cypress" height="35" src="https://blog.nashtechglobal.com/wp-content/uploads/2023/09/cypress_logo_social-1024x536.png">
+
 </div>
